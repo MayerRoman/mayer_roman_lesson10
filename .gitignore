@@ -1,0 +1,9 @@
+/.idea
+/target
+/out
+/log
+*.log
+*.iml
+SingersCatalog.xml
+
+
